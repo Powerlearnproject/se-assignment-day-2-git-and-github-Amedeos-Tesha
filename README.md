@@ -37,4 +37,4 @@ Issues and project boards on GitHub help track bugs, manage tasks, and organize 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
-Common challenges on GitHub include managing merge conflicts, using branches effectively, and maintaining a clean commit history. To address these, regularly sync with the main branch, follow a clear branching strategy, write descriptive commit messages, review pull requests thoroughly, and keep commits small and focused. These practices ensure smooth collaboration and effective version control
+Common challenges on GitHub include managing merge conflicts, using branches effectively, and maintaining a clean commit history. To address these, regularly sync with the main branch, follow a clear branching strategy, write descriptive commit messages, review pull requests thoroughly, and keep commits small and focused. These practices ensure smooth collaboration and effective version control.
